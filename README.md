@@ -31,5 +31,4 @@ C is a time-honored and versatile programming language that has stood the test o
 
 We highly value community involvement and welcome contributions from programmers worldwide. If you have a creative project idea or want to improve existing ones, submit your pull request with a detailed explanation of your changes. Together, we can create an inclusive space for aspiring developers to thrive.
 
-**Conclusion:**
 The "100 Projects in C" repository promises an exciting journey of exploration, learning, and growth. From building simple console-based applications to crafting complex systems, you will gain invaluable insights into C programming. By the end of this journey, you will be equipped with the skills and confidence to tackle real-world challenges, positioning yourself as a proficient C programmer. So, what are you waiting for? Let's embark on this transformative coding expedition together! Happy coding!
