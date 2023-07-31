@@ -1,0 +1,105 @@
+This file consists of all the projects that are in this repository
+
+1. Guess the Number Game
+2. Area and Perimeter Calculator
+3. Simple Todo List
+4. Fahrenheit to Celsius Converter
+5. Word Counter
+6. File Encryption/Decryption
+7. Simple Text Editor
+8. Rock, Paper, Scissors Game
+9. ASCII Art Generator
+10. Random Password Generator
+11. Tic-Tac-Toe Game
+12. Calendar Application
+13. Digital Clock
+14. Fibonacci Sequence Generator
+15. Prime Number Checker
+16. Matrix Operations (Addition, Multiplication)
+17. Student Grade Calculator
+18. Binary Search Algorithm
+19. Morse Code Translator
+20. Simple Paint Program
+21. Simple Web Server
+22. Hangman Game
+23. Number Guessing Game (Computer vs. Player)
+24. Alarm Clock
+25. Binary to Decimal Converter
+26. Decimal to Binary Converter
+27. Command-Line File Manager
+28. Quiz Game with Multiple Choice Questions
+29. ATM Simulator
+30. Text-based RPG Game
+31. Binary Tree Implementation
+32. Bubble Sort Algorithm
+33. Calendar Reminder Application
+34. Tower of Hanoi Solver
+35. Simple Budget Tracker
+36. Binary Search Tree (BST) Operations
+37. Caesar Cipher Encryption/Decryption
+38. Linked List Implementation
+39. Palindrome Checker
+40. Tic-Tac-Toe AI (Against Computer)
+41. Basic Music Player (Text-based)
+42. Stopwatch
+43. Merge Sort Algorithm
+44. Sudoku Solver
+45. Currency Converter
+46. Maze Solver
+47. Sudoku Game (with Board Generation)
+48. Simple Chat Application (using Sockets)
+49. Huffman Coding (File Compression)
+50. Snake Game
+51. Calculator with Parentheses Support
+52. N-Queens Problem Solver
+53. Calendar Event Reminder (with Notifications)
+54. Text-Based Blackjack Game
+55. Vigenère Cipher Encryption/Decryption
+56. Merge Two PDF Files
+57. File Explorer (List Files & Directories)
+58. Minesweeper Game
+59. Expression Evaluator (with Infix to Postfix Conversion)
+60. Hexadecimal to Decimal Converter
+61. Decimal to Hexadecimal Converter
+62. Hangman Game (with Words from File)
+63. Run-Length Encoding/Decoding
+64. Basic Paint Program (Graphics Library)
+65. Directory Tree Generator
+66. File Comparison Utility
+67. Connect Four Game
+68. Parentheses Checker (Balanced Parentheses)
+69. Maze Generator
+70. Simulate Bank Account Transactions
+71. Huffman Decoding (File Decompression)
+72. Basic Compiler (for a Simple Language)
+73. Binary Calculator (Addition & Subtraction)
+74. Text-Based Chess Game
+75. Word Search Puzzle Solver
+76. Image Viewer (using a Graphics Library)
+77. Basic Calculator with Memory Function
+78. Sudoku Puzzle Generator
+79. HTTP Request/Response Analyzer
+80. Basic Text-Based Web Browser
+81. Priority Queue Implementation
+82. Polynomial Manipulation (Addition, Multiplication)
+83. Solitaire Card Game
+84. Parallel Merge Sort (using Threads)
+85. File Encryption/Decryption (Image Files)
+86. Simple Paint Program (with Shapes)
+87. DNS Resolver
+88. Basic Text-Based RPG (with Character Stats)
+89. Zip File Compressor/Decompressor
+90. Basic Matrix Calculator (Inverse, Transpose)
+91. Hangman Game (with ASCII Art Display)
+92. Generate Random Maze (using Recursive Backtracking)
+93. Basic Database Management System (File-Based)
+94. Cellular Automaton Simulation (e.g., Conway's Game of Life)
+95. Spell Checker (Using Dictionary File)
+96. Sudoku Solver (Optimized with Backtracking)
+97. Caesar Cipher Brute-Force Cracker
+98. Game of Life (ASCII Art Visualization)
+99. Bank Management System
+100. Employee Management System
+
+
+Happy coding!
