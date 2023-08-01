@@ -4,7 +4,8 @@
 #include <stdio.h>
 
 // Function to solve the Tower of Hanoi puzzle
-void towerOfHanoi(int n, char source, char destination, char auxiliary) {
+void towerOfHanoi(int n, char source, char destination, char auxiliary) 
+{
     if (n == 1) {
         printf("Move disk 1 from peg %c to peg %c\n", source, destination);
         return;
